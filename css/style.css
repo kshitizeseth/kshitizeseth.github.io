@@ -1,0 +1,77 @@
+* {
+	box-sizing: border-box;
+  }
+  
+  .box {
+	float: left;
+	font-size: 150%;
+	text-decoration: none;
+	text-align: center;
+	color:white;
+	font-family: monospace;
+	width: 25%; /* three boxes (use 25% for four, and 50% for two, etc) */
+	padding: 10px; /* if you want space between the images */
+	margin: 0px;
+  }
+  div.menu_strip{
+	position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  }
+  #banner{
+	  width: inherit;
+	  
+  }
+  .banner1c{
+	  text-align: center;
+  }
+ 
+  #banner1 {
+    width: 100%;
+    height: auto;
+  }
+  #banner2 {
+    width: auto;
+   text-align: center;
+    height: 400px;
+  }
+  #banner3 {
+    width: auto;
+    text-align: center;
+    height: 400px;
+  }
+  
+  #aboutpara{
+     
+      text-align: center;
+      font-size: 150%;
+      font-family: monospace;
+    
+  }
+  #sec{
+
+      text-align: center;
+      width: 600px;
+  }
+ 
+  #knowledge{
+    text-align: center;
+    font-size: 150%;
+    font-family: monospace;
+  }
+  #education{
+    text-align: center;
+    font-size: 150%;
+    font-family: monospace;
+  }
+  #tab{
+      text-align: center;
+  }
+  #contact{
+    text-align: center;
+    font-size: 150%;
+    font-family: monospace;
+  }
+  #profilepic{
+    border-radius: 50%;
+  }
